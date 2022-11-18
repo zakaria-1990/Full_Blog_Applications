@@ -7,4 +7,3 @@ Blog application SEO friendly with features:
   - rss feed
   - comments
   - share
-  
